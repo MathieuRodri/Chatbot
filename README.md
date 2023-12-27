@@ -12,7 +12,7 @@ This GitHub repository contains a Streamlit-based chatbot that interacts with PD
 - **Text Splitting**: Implements techniques to split the book into manageable chunks.
 - **Embeddings and Indexing**: Utilizes SentenceTransformer for embeddings and FAISS for efficient indexing.
 - **Interactive Chatbot**: A user-friendly Streamlit interface for interacting with the chatbot.
-- **Advanced Query Handling**: Employs BERT and GPT-Neo models for accurate and context-aware responses.
+- **Query Handling**: Employs BERT and GPT-Neo models for accurate and context-aware responses.
 
 ## Requirement
 - Python 3.10.11 (not tested on others versions).
