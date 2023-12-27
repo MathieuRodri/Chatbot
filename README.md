@@ -22,6 +22,30 @@ This GitHub repository contains a Streamlit-based chatbot that interacts with PD
 - Run the Streamlit app.
 - Upload a PDF and interact with the chatbot to get responses based on the PDF content.
 
+## Dependencies
+- langchain==0.0.352
+- langchain-community==0.0.6
+- langchain-core==0.1.3
+- PyPDF2==3.0.1
+- python-dotenv==1.0.0
+- streamlit==1.29.0
+- streamlit-camera-input-live==0.2.0
+- streamlit-card==1.0.0
+- streamlit-embedcode==0.1.2
+- streamlit-extras==0.3.6
+- streamlit-faker==0.0.3
+- streamlit-image-coordinates==0.1.6
+- streamlit-keyup==0.2.2
+- streamlit-toggle-switch==1.0.2
+- streamlit-vertical-slider==2.5.5
+- faiss-cpu==1.7.4
+- streamlit-extras==0.3.6
+- sentence-transformers==2.2.2
+- sentence-transformers==2.2.2
+- transformers==4.36.2
+- accelerate==0.25.0
+
+
 ## Contribution
 Developed by Mathieu RODRIGUES, a passionate student specializing in Computer Vision and Machine Learning.
 
