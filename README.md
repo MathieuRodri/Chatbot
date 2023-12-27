@@ -5,7 +5,7 @@
 
 
 ## Overview
-This GitHub repository contains a Streamlit-based chatbot that interacts with PDF books to answer user queries using the contents of the book. It's an innovative approach to extract and utilize information from PDFs for a conversational AI experience.
+This GitHub repository contains a Streamlit-based chatbot that interacts with PDF books to answer user queries using the contents of the book.
 
 ## Features
 - **PDF Processing**: Converts and processes text from PDFs for AI model compatibility.
