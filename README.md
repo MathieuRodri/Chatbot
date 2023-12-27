@@ -14,6 +14,9 @@ This GitHub repository contains a Streamlit-based chatbot that interacts with PD
 - **Interactive Chatbot**: A user-friendly Streamlit interface for interacting with the chatbot.
 - **Advanced Query Handling**: Employs BERT and GPT-Neo models for accurate and context-aware responses.
 
+## Requirement
+-Python 3.10.11 (not tested on others versions).
+
 ## Installation
 1. [Download the stable version](https://github.com/MathieuRodri/Chatbot/releases/tag/1.1) or clone the repository.
 2. To start the chatbot, run the `ChatBot.bat` script.
