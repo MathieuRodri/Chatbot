@@ -15,7 +15,7 @@ This GitHub repository contains a Streamlit-based chatbot that interacts with PD
 - **Advanced Query Handling**: Employs BERT and GPT-Neo models for accurate and context-aware responses.
 
 ## Installation
-1. [Download the stable version](https://github.com/MathieuRodri/Chatbot/releases/tag/1.1)
+1. [Download the stable version](https://github.com/MathieuRodri/Chatbot/releases/tag/1.1) or clone the repository.
 2. To start the chatbot, run the `ChatBot.bat` script.
 
 ## Usage
