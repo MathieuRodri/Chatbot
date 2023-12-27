@@ -12,7 +12,7 @@ This GitHub repository contains a Streamlit-based chatbot that interacts with PD
 
 ## Installation
 1. Clone the repository.
-2. Install required packages: `streamlit`, `numpy`, `PyPDF2`, `sentence_transformers`, `faiss`, `transformers`.
+2. To start the chatbot, run the `ChatBot.bat` script.
 
 ## Usage
 - Run the Streamlit app.
