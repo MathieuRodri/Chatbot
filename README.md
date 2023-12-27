@@ -22,7 +22,7 @@ This GitHub repository contains a Streamlit-based chatbot that interacts with PD
 2. To start the chatbot, run the `ChatBot.bat` script.
 
 ## Usage
-- Run the Streamlit app.
+- Run the Streamlit app (`ChatBot.bat`).
 - Upload a PDF and interact with the chatbot to get responses based on the PDF content.
 
 ## Dependencies
