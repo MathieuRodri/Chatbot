@@ -1,5 +1,9 @@
 # Chatbot Development with PDF Book Contents
 
+
+![ChatBot Logo](https://github.com/MathieuRodri/Chatbot/blob/main/assets/logo.png)
+
+
 ## Overview
 This GitHub repository contains a Streamlit-based chatbot that interacts with PDF books to answer user queries using the contents of the book. It's an innovative approach to extract and utilize information from PDFs for a conversational AI experience.
 
