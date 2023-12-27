@@ -23,9 +23,7 @@ This GitHub repository contains a Streamlit-based chatbot that interacts with PD
 - Upload a PDF and interact with the chatbot to get responses based on the PDF content.
 
 ## Contribution
-Developed by Mathieu RODRIGUES, a passionate student specializing in Computer Vision and Machine Learning. Contributions and suggestions are welcome.
+Developed by Mathieu RODRIGUES, a passionate student specializing in Computer Vision and Machine Learning.
 
 ## Contact
 GitHub: [MathieuRodri](https://github.com/MathieuRodri)
-
-For detailed instructions and project specifications, refer to the provided [PDF document](/mnt/data/Développement%20d'un%20Chatbot%20avec%20Contenus%20de%20Livres%20PDF.pdf).
