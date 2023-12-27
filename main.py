@@ -12,6 +12,8 @@ import os
 
 # Sidebar contents
 with st.sidebar:
+    st.image(os.path.join('assets', 'logo.png'), width = 100)
+    add_vertical_space(2)
     st.image(os.path.join('assets', 'valeo_logo.png'), width = 200)
     add_vertical_space(1)
     st.title("Chatbot💬 - Contenus de Livres PDF")
