@@ -54,8 +54,6 @@ def main():
     # Configuration et contenu de la barre latérale
     with st.sidebar:
         st.image(os.path.join('assets', 'logo.png'))
-        add_vertical_space(2)
-        st.image(os.path.join('assets', 'valeo_logo.png'))
         add_vertical_space(1)
         st.title("Chatbot💬 - Contenus de Livres PDF")
         st.markdown('''
